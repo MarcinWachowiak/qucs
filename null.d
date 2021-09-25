@@ -1,0 +1,1 @@
+diode.lo: /dev/null
