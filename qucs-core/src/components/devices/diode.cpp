@@ -458,7 +458,7 @@ PROP_REQ [] = {
   { "N", PROP_REAL, { 1, PROP_NO_STR }, PROP_RNGII (1e-6, 100) },
   { "M", PROP_REAL, { 0.5, PROP_NO_STR }, PROP_RNGII (0, 150) },
   { "Cj0", PROP_REAL, { 10e-15, PROP_NO_STR }, PROP_POS_RANGE },
-  { "Vj", PROP_REAL, { 0.7, PROP_NO_STR }, PROP_RNGXI (0, 150) },
+  { "Vj", PROP_REAL, { 0.7, PROP_NO_STR }, PROP_RNGXI (0, 200) },
   PROP_NO_PROP };
 PROP_OPT [] = {
   { "Rs", PROP_REAL, { 0, PROP_NO_STR }, PROP_POS_RANGE },
