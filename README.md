@@ -8,9 +8,9 @@
 Qucs is an integrated circuit simulator which means you are able to setup a circuit with a graphical user interface (GUI) and simulate the large-signal, small-signal and noise behaviour of the circuit. After that simulation has finished you can view the simulation results on a presentation page or window.
 
 
-<span style="color:red">
-QUCS is no longer maintained and the latest version requires Qt 4.X, which has been declared End of Life and is no longer provided on latest Ubuntu releases. In order to make it work one has to install the software depenencies from unoficial Personal Package Archives (PPA). This option is not fully secure and reliable - use at your own risk. 
-</span>
+
+**QUCS is no longer maintained and the latest version requires Qt 4.X, which has been declared End of Life and is no longer provided on latest Ubuntu releases. In order to make it work one has to install the software depenencies from unoficial Personal Package Archives (PPA). This option is not fully secure and reliable - use at your own risk.**
+
 
     sudo add-apt-repository ppa:ubuntuhandbook1/ppa
     sudo apt update
